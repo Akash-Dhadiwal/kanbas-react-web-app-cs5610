@@ -133,4 +133,3 @@ export default function Kanbas() {
     </Session>
   );
 }
-
